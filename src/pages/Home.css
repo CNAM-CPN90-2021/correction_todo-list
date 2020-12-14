@@ -1,0 +1,13 @@
+.todo-item.-checked {
+  text-decoration: line-through;
+  opacity: 0.5;
+}
+
+.segment-button-with-badge {
+  display: flex;
+  align-items: center;
+}
+
+.segment-button-with-badge > ion-badge {
+  margin-left: 4px;
+}
